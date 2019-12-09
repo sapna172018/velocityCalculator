@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-07T03:07:44Z" name="Default suite" finished-at="2019-12-07T03:07:44Z" duration-ms="141">
+    <groups>
+    </groups>
+    <test started-at="2019-12-07T03:07:44Z" name="Default test" finished-at="2019-12-07T03:07:44Z" duration-ms="141">
+      <class name="selenium.Skip">
+        <test-method signature="testCaseEnabling()[pri:0, instance:selenium.Skip@4c1909a3]" started-at="2019-12-07T03:07:44Z" name="testCaseEnabling" finished-at="2019-12-07T03:07:44Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEnabling -->
+        <test-method signature="testCaseEnabling()[pri:0, instance:selenium.Skip@4c1909a3]" started-at="2019-12-07T03:07:44Z" name="testCaseEnabling" finished-at="2019-12-07T03:07:44Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEnabling -->
+        <test-method signature="testCaseEnabling()[pri:0, instance:selenium.Skip@4c1909a3]" started-at="2019-12-07T03:07:44Z" name="testCaseEnabling" finished-at="2019-12-07T03:07:44Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEnabling -->
+        <test-method signature="testCaseEnabling()[pri:0, instance:selenium.Skip@4c1909a3]" started-at="2019-12-07T03:07:44Z" name="testCaseEnabling" finished-at="2019-12-07T03:07:44Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEnabling -->
+        <test-method signature="testCaseEnabling()[pri:0, instance:selenium.Skip@4c1909a3]" started-at="2019-12-07T03:07:44Z" name="testCaseEnabling" finished-at="2019-12-07T03:07:44Z" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEnabling -->
+        <test-method signature="testCaseEnabling()[pri:0, instance:selenium.Skip@4c1909a3]" started-at="2019-12-07T03:07:44Z" name="testCaseEnabling" finished-at="2019-12-07T03:07:44Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEnabling -->
+        <test-method signature="testCaseEnabling()[pri:0, instance:selenium.Skip@4c1909a3]" started-at="2019-12-07T03:07:44Z" name="testCaseEnabling" finished-at="2019-12-07T03:07:44Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEnabling -->
+        <test-method signature="testCaseEnabling()[pri:0, instance:selenium.Skip@4c1909a3]" started-at="2019-12-07T03:07:44Z" name="testCaseEnabling" finished-at="2019-12-07T03:07:44Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEnabling -->
+        <test-method signature="testCaseEnabling()[pri:0, instance:selenium.Skip@4c1909a3]" started-at="2019-12-07T03:07:44Z" name="testCaseEnabling" finished-at="2019-12-07T03:07:44Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEnabling -->
+        <test-method signature="testCaseEnabling()[pri:0, instance:selenium.Skip@4c1909a3]" started-at="2019-12-07T03:07:44Z" name="testCaseEnabling" finished-at="2019-12-07T03:07:44Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseEnabling -->
+      </class> <!-- selenium.Skip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
