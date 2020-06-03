@@ -75,4 +75,6 @@ public class Contacts extends BaseTest {
 	
 	public void hello(){}
 	public void hello2(){}
+	public void hello3(){}
+	
 }
